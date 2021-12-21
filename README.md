@@ -1,5 +1,5 @@
 # formik-form
-This exercise for formik form experience.  Two input forms are added to the screen with basic validation.
+This exercise is for formik form experience.  Two input fields (email and password) are added to the screen with basic validation.
 
 
 This project demonstrates the following concepts: 
@@ -7,7 +7,7 @@ This project demonstrates the following concepts:
 - formik error handling
 
 
-I had fun with this project that teaches a programmer how to use formik for input field requirements.
+I had fun learning how to use formik for input field requirements in a React application.
 
 ### How to Run
 Anyone can run this file by downloading the repository, running npm install, and then npm start to run the project in your browser.
